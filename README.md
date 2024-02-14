@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## owner: Trean Chhanon
 
-if you can this source code please click link to github as below:
+if you can run this source code please click link to github as below:
 
 Here is link for github: https://github.com/TreanChhanon/nun_project
 
